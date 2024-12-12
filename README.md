@@ -102,10 +102,6 @@ The extension uses OpenAI's `gpt-3.5-turbo` model to process queries. Responses 
 - **Add History Functionality**: Allow users to view and revisit past queries and responses.
 - **Support Multiple Languages**: Extend OpenAI queries to support multilingual building code searches.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - OpenAI for the GPT-3.5-turbo model.
